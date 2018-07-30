@@ -1,0 +1,14 @@
+{
+"companyName": "oguneg",
+"productName": "ogunegg",
+"dataUrl": "ogunegg.data.unityweb",
+"asmCodeUrl": "ogunegg.asm.code.unityweb",
+"asmMemoryUrl": "ogunegg.asm.memory.unityweb",
+"asmFrameworkUrl": "ogunegg.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ogunegg.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
